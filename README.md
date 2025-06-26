@@ -10,7 +10,7 @@
         body {
             font-family: 'Inter', sans-serif;
             background-color: #111827; /* gray-900 */
-            color: #f3f4f6; /* gray-100 */
+            color: green; /* gray-100 */
         }
         .step-card {
             background-color: #1f2937; /* gray-800 */
